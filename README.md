@@ -50,6 +50,7 @@ These demonstrate correctness in geometric figure construction, message serializ
   - `log4j-api-2.20.0.jar`
 
 ### How to Run
+Although the project was created to get more further developed, be used as basis code. You can only run the main Server, or tests done to prove that works properly.
 
 1. Clone the repository:
    ```bash
