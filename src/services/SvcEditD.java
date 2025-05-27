@@ -1,4 +1,4 @@
-package servicies;
+package services;
 
 import app.Draws;
 import protocol.*;
@@ -13,7 +13,6 @@ import static app.Draw.getfname;
 import static protocol.Heads.*;
 import static protocol.MsgStr.arrint_str;
 import static protocol.MsgStr.str_arrint;
-import static protocol.Tag.tag;
 import static protocol.ToolDefs.svclog;    // Logger de depuración para servicios -> svclog
 
 /**

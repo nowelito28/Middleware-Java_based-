@@ -1,4 +1,4 @@
-package servicies;
+package services;
 
 /**
  * Interfaz de MOM (Message Oriented Middleware) -> Distintos canales/flujos de mensajes con estado

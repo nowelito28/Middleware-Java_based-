@@ -4,8 +4,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import servicies.Svc;
-import servicies.SvcEditD;
+import services.Svc;
+import services.SvcEditD;
 
 public class UserServerTDraws {
     private Server server;

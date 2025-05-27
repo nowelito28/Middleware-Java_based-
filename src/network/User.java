@@ -1,7 +1,7 @@
 package network;
 
 import protocol.*;
-import servicies.Mom;
+import services.Mom;
 
 import java.io.*;
 import java.net.InetSocketAddress;

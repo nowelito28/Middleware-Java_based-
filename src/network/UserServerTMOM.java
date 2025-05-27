@@ -3,7 +3,7 @@ package network;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import servicies.SvcMom;
+import services.SvcMom;
 
 import static java.lang.Thread.sleep;
 

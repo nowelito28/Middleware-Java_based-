@@ -1,4 +1,4 @@
-package servicies;
+package services;
 
 import protocol.BufMsg;
 import protocol.Heads;

@@ -2,9 +2,9 @@ package network;
 
 import protocol.MsgStr;
 import protocol.Tag;
-import servicies.Channels;
-import servicies.Svc;
-import servicies.SvcMom;
+import services.Channels;
+import services.Svc;
+import services.SvcMom;
 
 import java.io.*;
 import java.net.InetSocketAddress;
