@@ -55,4 +55,12 @@ Although the project was created to get more further developed, be used as basis
 1. Clone the repository:
    ```bash
    git clone https://github.com/nowelito28/Middleware-Java_based-.git
-   cd middleware-java
+   cd cd Middleware-Java_based-
+
+2. Compile source code an libraries used:
+ - Linux/MacOs:
+   ```bash
+   javac -cp "lib/*" -d out $(find ./src -name "*.java")
+ - Windows:
+   ```bash
+   javac -cp "lib/*" -d out src\app\*.java src\network\*.java src\servicies\*.java src\protocol\*.java
